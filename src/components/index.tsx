@@ -1,0 +1,19 @@
+export { default as Navbar } from './Navbar';
+export { default as Hero } from './Hero';
+export { default as HeroTwo } from './HeroTwo';
+export { default as AdmissionAds } from './AdmissionAds';
+export { default as AboutSummary } from './AboutSummary';
+export { default as NewsSummary } from './NewsSummary';
+export { default as ArticleSummary } from './ArticleSummary';
+export { default as Affiliations } from './Affiliations';
+export { default as Footer } from './Footer';
+export { default as BackToTop } from './BackToTop';
+export { default as WhoWeAre } from './WhoWeAre';
+export { default as WhoWeAreTwo } from './WhoWeAreTwo';
+export { default as CardTeam } from './CardTeam';
+export { default as CardPartners } from './CardPartners';
+export { default as CardBlogs } from './CardBlogs';
+export { default as Switcher } from './Switcher';
+export { default as DisplayDetailsOne } from './DisplayDetailsOne';
+export { default as DisplayDetailsTwo } from './DisplayDetailsTwo';
+
